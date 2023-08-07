@@ -1,0 +1,14 @@
+
+
+.env
+
+
+
+
+
+
+# Ignore node_modules directory (if using Node.js)
+node_modules/
+
+
+
